@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+    I learned how to create a simple html page from zero using a text editor
+    The tags are simple and easy to remember.
+    I'm used to editing code on IDEs with syntax highlighting and autocompletion and I miss that.
+    Solve one problem at a time. Small problems first. For example. First add the headers (h1, h2). It makes it
+    easyer to see the rest of the text.
